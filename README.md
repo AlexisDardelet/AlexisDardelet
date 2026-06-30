@@ -175,8 +175,8 @@ Collaboration avec la plateforme française **MyVolley** sur le volet performanc
 ### 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/VOTRE-PROFIL/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:VOTRE-EMAIL@exemple.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alexisdardelet/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:alexis.dardelet@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center"><sub>📍 Lyon, France — mobile anywhere / mobile partout · 🟢 Available July 2026 / Disponible juillet 2026</sub></p>
